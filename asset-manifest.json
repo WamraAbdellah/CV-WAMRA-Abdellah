@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CV-WAMRA-Abdellah/static/css/main.6cfe5638.css",
+    "main.js": "/CV-WAMRA-Abdellah/static/js/main.c2b7a318.js",
+    "static/js/787.e8871c4f.chunk.js": "/CV-WAMRA-Abdellah/static/js/787.e8871c4f.chunk.js",
+    "index.html": "/CV-WAMRA-Abdellah/index.html",
+    "main.6cfe5638.css.map": "/CV-WAMRA-Abdellah/static/css/main.6cfe5638.css.map",
+    "main.c2b7a318.js.map": "/CV-WAMRA-Abdellah/static/js/main.c2b7a318.js.map",
+    "787.e8871c4f.chunk.js.map": "/CV-WAMRA-Abdellah/static/js/787.e8871c4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cfe5638.css",
+    "static/js/main.c2b7a318.js"
+  ]
+}
